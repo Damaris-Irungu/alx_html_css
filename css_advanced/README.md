@@ -1,1 +1,1 @@
-This is advanced CSS
+This is advanced styling with CSS
