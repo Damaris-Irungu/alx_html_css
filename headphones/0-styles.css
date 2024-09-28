@@ -25,6 +25,8 @@ li a {
 .hero {
     background-image: url("headphones_hero_1.jpg");
     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     padding-top: 200px;
     padding-bottom: 200px;
 }
