@@ -27,8 +27,10 @@ li a {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    padding-top: 200px;
-    padding-bottom: 200px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    min-height: 100vh;
+    min-width: 100vh;
 }
 h1 {
     text-align: center;
@@ -94,15 +96,15 @@ h2 {
 }
 
 /*Our results section*/
-.our results {
+.results-container {
     background-image: url("background.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    padding-top: 200px;
-    padding-bottom: 200px;
-    height: 100px;
-    width: 100px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    min-height: 100vh;
+    min-width: 100vh;
     
 }
 #results {
