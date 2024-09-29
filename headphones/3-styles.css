@@ -97,7 +97,7 @@ h2 {
 }
 
 /*Our results section*/
-.our results {
+.results-container {
     background-image: url("background.png");
     background-size: cover;
     background-position: center;
